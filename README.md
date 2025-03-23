@@ -1,4 +1,6 @@
 # Working-MacOS-Ventura-on-Thinkpad-X1-Carbon-Gen-6
+OpenCore Dortania
+
 EFI file to make MacOS or (Hackintosh) work on a Thinkpad X1 Carbon Gen 6 (Kaby lake).
 
 I've been using MacOS on this thinkpad for 2 months now and I can tell that works like a Mac, the only downside is that if you have the 2k display you will have to install hidpi
